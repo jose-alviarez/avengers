@@ -1,3 +1,4 @@
 # misiones
 
-* investigar al dr. doom
+- investigar al dr. doom
+- capturar a red skull
